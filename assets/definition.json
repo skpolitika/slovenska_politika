@@ -1,0 +1,272 @@
+[
+  {
+    "path": "assets/sound/harabin-ci.mp3",
+    "vulgarity": "13",
+    "context": "10"
+  },
+  {
+    "path": "assets/sound/danko-respirator.mp3",
+    "vulgarity": "17",
+    "context": "15"
+  },
+  {
+    "path": "assets/sound/danko-citim-sa-dobre.mp3",
+    "vulgarity": "11",
+    "context": "23"
+  },
+  {
+    "path": "assets/sound/danko-pocty.mp3",
+    "vulgarity": "21",
+    "context": "23"
+  },
+  {
+    "path": "assets/sound/danko-blikanie-vieckami.mp3",
+    "vulgarity": "12",
+    "context": "24"
+  },
+  {
+    "path": "assets/sound/kalinakml-tiktok.mp3",
+    "vulgarity": "14",
+    "context": "24"
+  },
+  {
+    "path": "assets/sound/danko-chskym.mp3",
+    "vulgarity": "16",
+    "context": "28"
+  },
+  {
+    "path": "assets/sound/fico-pellegrini.mp3",
+    "vulgarity": "22",
+    "context": "28"
+  },
+  {
+    "path": "assets/sound/gasparovic-biele-cierne.mp3",
+    "vulgarity": "12",
+    "context": "29"
+  },
+  {
+    "path": "assets/sound/fico-sme-diletant.mp3",
+    "vulgarity": "25",
+    "context": "32"
+  },
+  {
+    "path": "assets/sound/fico-zatva.mp3",
+    "vulgarity": "29",
+    "context": "34"
+  },
+  {
+    "path": "assets/sound/slota-pelendrek.mp3",
+    "vulgarity": "85",
+    "context": "35"
+  },
+  {
+    "path": "assets/sound/ooo.mp3",
+    "vulgarity": "24",
+    "context": "35"
+  },
+  {
+    "path": "assets/sound/danko-zaumeraju-mzdu.mp3",
+    "vulgarity": "30",
+    "context": "36"
+  },
+  {
+    "path": "assets/sound/fico-nebudem-v-politike.mp3",
+    "vulgarity": "9",
+    "context": "38"
+  },
+  {
+    "path": "assets/sound/fico-podvodnici.mp3",
+    "vulgarity": "17",
+    "context": "42"
+  },
+  {
+    "path": "assets/sound/nadory.mp3",
+    "vulgarity": "10",
+    "context": "42"
+  },
+  {
+    "path": "assets/sound/pellegrini-dlzka.mp3",
+    "vulgarity": "20",
+    "context": "44"
+  },
+  {
+    "path": "assets/sound/danko-ostrouhly-stol.mp3",
+    "vulgarity": "16",
+    "context": "45"
+  },
+  {
+    "path": "assets/sound/miklosko.mp3",
+    "vulgarity": "73",
+    "context": "47"
+  },
+  {
+    "path": "assets/sound/danko-otupeni-ludia.mp3",
+    "vulgarity": "17",
+    "context": "48"
+  },
+  {
+    "path": "assets/sound/fico-macka.mp3",
+    "vulgarity": "25",
+    "context": "48"
+  },
+  {
+    "path": "assets/sound/kotleba-v-jednote-je-sila.mp3",
+    "vulgarity": "80",
+    "context": "49"
+  },
+  {
+    "path": "assets/sound/fico-zadok-ruky.mp3",
+    "vulgarity": "35",
+    "context": "50"
+  },
+  {
+    "path": "assets/sound/fico-romksky-pindur.mp3",
+    "vulgarity": "20",
+    "context": "52"
+  },
+  {
+    "path": "assets/sound/meciar-elektra.mp3",
+    "vulgarity": "100",
+    "context": "53"
+  },
+  {
+    "path": "assets/sound/mainstream.mp3",
+    "vulgarity": "10",
+    "context": "53"
+  },
+  {
+    "path": "assets/sound/kollar-pekna-baba.mp3",
+    "vulgarity": "25",
+    "context": "57"
+  },
+  {
+    "path": "assets/sound/kotleba-korona.mp3",
+    "vulgarity": "20",
+    "context": "63"
+  },
+  {
+    "path": "assets/sound/vyplatny-termin-danko.mp3",
+    "vulgarity": "19",
+    "context": "64"
+  },
+  {
+    "path": "assets/sound/vyprodukovany-plyn-slota.mp3",
+    "vulgarity": "67",
+    "context": "67"
+  },
+  {
+    "path": "assets/sound/trcanie.mp3",
+    "vulgarity": "84",
+    "context": "67"
+  },
+  {
+    "path": "assets/sound/mazurek-turecko.mp3",
+    "vulgarity": "90",
+    "context": "68"
+  },
+  {
+    "path": "assets/sound/dakujem-za-otazky.mp3",
+    "vulgarity": "23",
+    "context": "70"
+  },
+  {
+    "path": "assets/sound/harabin-holub-sach.mp3",
+    "vulgarity": "50",
+    "context": "70"
+  },
+  {
+    "path": "assets/sound/danko-zahadne-osoby.mp3",
+    "vulgarity": "21",
+    "context": "75"
+  },
+  {
+    "path": "assets/sound/idiots.mp3",
+    "vulgarity": "80",
+    "context": "76"
+  },
+  {
+    "path": "assets/sound/zasran.mp3",
+    "vulgarity": "89",
+    "context": "82"
+  },
+  {
+    "path": "assets/sound/expresivne.mp3",
+    "vulgarity": "30",
+    "context": "84"
+  },
+  {
+    "path": "assets/sound/damko-taktom.mp3",
+    "vulgarity": "20",
+    "context": "85"
+  },
+  {
+    "path": "assets/sound/slota-janis-ta3.mp3",
+    "vulgarity": "18",
+    "context": "85"
+  },
+  {
+    "path": "assets/sound/slota-madari-kone.mp3",
+    "vulgarity": "45",
+    "context": "86"
+  },
+  {
+    "path": "assets/sound/slota-osobne-vzduchy.mp3",
+    "vulgarity": "49",
+    "context": "86"
+  },
+  {
+    "path": "assets/sound/slota-maly-krpaty.mp3",
+    "vulgarity": "60",
+    "context": "87"
+  },
+  {
+    "path": "assets/sound/slota-nezmysly.mp3",
+    "vulgarity": "35",
+    "context": "88"
+  },
+  {
+    "path": "assets/sound/fico-krajina-v-riti.mp3",
+    "vulgarity": "45",
+    "context": "89"
+  },
+  {
+    "path": "assets/sound/danko-dobrost-s-hlupostou.mp3",
+    "vulgarity": "19",
+    "context": "90"
+  },
+  {
+    "path": "assets/sound/matovic-blaha-baran.mp3",
+    "vulgarity": "75",
+    "context": "94"
+  },
+  {
+    "path": "assets/sound/danko-horalky.mp3",
+    "vulgarity": "13",
+    "context": "95"
+  },
+  {
+    "path": "assets/sound/harabin-milovanie.mp3",
+    "vulgarity": "65",
+    "context": "95"
+  },
+  {
+    "path": "assets/sound/harabin-rap.mp3",
+    "vulgarity": "50",
+    "context": "98"
+  },
+  {
+    "path": "assets/sound/harabin-ruska-dole.mp3",
+    "vulgarity": "20",
+    "context": "99"
+  },
+  {
+    "path": "assets/sound/fico-korcule.mp3",
+    "vulgarity": "40",
+    "context": "100"
+  },
+  {
+    "path": "assets/sound/zaver.mp3",
+    "vulgarity": "28",
+    "context": "100"
+  }
+]
